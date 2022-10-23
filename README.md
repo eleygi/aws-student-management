@@ -5,6 +5,7 @@ This project contains source code of a serverless CRUD microservice. Built in ja
 ## Architecture
 
 The architecture is a standard one captured in the following diagram:
+
 ![CRUD Architecture](architecture.png)
 
 ## Prerequisites

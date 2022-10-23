@@ -1,0 +1,4 @@
+{
+  "body": "{\"error\":\"Bad request\", \"message\":\"missing student id\"}",
+  "statusCode": 400
+}
